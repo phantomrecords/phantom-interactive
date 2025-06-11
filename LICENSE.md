@@ -1,4 +1,4 @@
-# Custom License – Phantom Interactive™ Digital Works
+# Custom License – Phantom Interactive Digital Works
 
 All content in this repository is © 2025 Michael Widener, II (aka DJ-experience®).  
 This includes images, code, design assets, audio-visual compositions, and any digital object stored or referenced herein.
